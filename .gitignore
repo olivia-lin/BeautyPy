@@ -1,2 +1,14 @@
 .ipynb_checkpoints/
-tmp/
+.pytest_cache/
+BeautyPy/__pycache__/
+BeautyPy/Untitled.ipynb
+tests/__pycache__/test_flip.cpython-36-PYTEST.pyc
+BeautyPy/__pycache__/flip.cpython-36.pyc
+.pytest_cache/v/cache/lastfailed
+.pytest_cache/v/cache/nodeids
+BeautyPy/__pycache__/emboss.cpython-36.pyc
+BeautyPy/__pycache__/get_image_details.cpython-36.pyc
+tests/__pycache__/test_emboss.cpython-36-PYTEST.pyc
+*.pyc
+BeautyPy/.DS_Store
+.DS_Store
